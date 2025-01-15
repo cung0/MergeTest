@@ -1,2 +1,2 @@
 # MergeTest
-# Pushing something to practice merging
+# Changing text to merge
